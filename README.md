@@ -121,7 +121,7 @@ There are a lot of great resources on how to get invited for an interview. Here 
   Similar question: Describe yourself
     <!-- <ul>
       <li>
-        add answer here
+        ff
       </li>
     </ul> -->
 </details>
