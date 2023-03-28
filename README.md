@@ -119,14 +119,30 @@ There are a lot of great resources on how to get invited for an interview. Here 
 <details>
   <summary>Tell me about yourself</summary>
   Similar question: Describe yourself
+  
+ I am a highly skilled blockchain developer, with one year of experience in the industry.  I have a strong background in building decentralized applications
+       (DApps) using the Ethereum blockchain. I have a deep understanding of Solidity programming, as well as experience with smart contract development, testing, and        deployment.I have created several successful projects that utilize blockchain for secure and transparent transactions. I am a proactive problem-solver with            excellent communication skills, and I am comfortable working both independently and as part of a team. I am excited to bring my expertise to a new              opportunity and continue growing my skills as a Solidity developer. 
     <!-- <ul>
       <li>
-        ff
+        
       </li>
     </ul> -->
 </details>
+
 <details>
   <summary>Discuss your resume</summary>
+  
+  Sure, I would be happy to discuss my resume with you.
+
+As a highly skilled Solidity developer, I have a strong background in building decentralized applications using the Ethereum blockchain. I am well-versed in Solidity programming language and have experience with smart contract development, testing, and deployment. I am a proactive problem-solver with excellent communication skills and am comfortable working both independently and as part of a team.
+
+In terms of my education, I hold a B.Sc. in Geology from the University of Nigeria, Nsukka. I have also completed various online certifications from Coursera, including Blockchain Basics, Python Basic Specialization, Scripting in Python Specialization, C and C++ for Everyone Specialization, Javascript Specialization, and Java Specialization.
+
+My technical skills include proficiency in Solidity programming language, Javascript and React js, Ether.js, Version control systems like git, and Python programming language. Additionally, I possess strong soft skills such as communication, problem-solving, leadership, teamwork, empathy, and collaboration.
+
+Regarding my work experience, I worked as a Solidity Developer Intern at Grandida LLC, where I developed a decentralized application for tipping and a decentralized application for buying and selling real estate online using cryptocurrency and smart contracts. Before that, I worked as a Search Engine Evaluator at Telus International, where I evaluated URLs and analysed various web search engines including Goggle and Bing. I also worked as an Extension Officer at the Ministry of Agriculture, where I sensitised farmers on new agricultural techniques and methods, and collected and analysed data.
+
+Overall, my background in Solidity development, strong technical skills, and soft skills make me an excellent candidate for a role as a Solidity developer.
     <!-- <ul>
       <li>
         add answer here
@@ -135,6 +151,7 @@ There are a lot of great resources on how to get invited for an interview. Here 
 </details>
 <details>
   <summary>What should we know about you that's not listed on your resume?</summary>
+  One thing that's not listed on my resume is my passion for learning and self-improvement. While my education and work experience are certainly important, I also believe that personal growth and development are crucial for success in any field. I enjoy reading articles and documentaions, taking online courses, attending webinars and conferences, and staying up to date with the latest trends and technologies in my industry. Additionally, I enjoy connecting with other professionals in my field and learning from their experiences and insights. Overall, my passion for learning and self-improvement has helped me develop a growth mindset, which allows me to approach challenges with a positive and proactive attitude.
     <!-- <ul>
       <li>
         add answer here
@@ -149,6 +166,13 @@ There are a lot of great resources on how to get invited for an interview. Here 
       </li>
     </ul> -->
 </details>
+As a blockchain developer, I have always been passionate about exploring the potential of decentralized technologies. In my free time, I enjoy participating in various blockchain communities and attending industry conferences to stay up-to-date with the latest trends and developments.
+
+One of the most interesting experiences I had recently was working on a personal project to build a decentralized voting application on the Ethereum blockchain. It was an exciting challenge to design and develop a smart contract-based system that could ensure transparency and security while preserving the anonymity of the voters.
+
+I found the project to be an excellent opportunity to hone my skills in Solidity programming and DApp development. Moreover, I learned how to approach complex problems, break them down into manageable tasks, and collaborate with other developers to achieve the best possible outcome.
+
+This experience reinforced my belief that blockchain technology has the potential to revolutionize many aspects of our lives, from finance and governance to social and environmental initiatives. I am excited to bring my passion and expertise to a new role and contribute to the growth and success of the company.
 <details>
   <summary>What are your greatest strengths?</summary>
     <!-- <ul>
@@ -157,6 +181,16 @@ There are a lot of great resources on how to get invited for an interview. Here 
       </li>
     </ul> -->
 </details>
+As a blockchain developer, I believe that my greatest strengths are my technical expertise, my problem-solving skills, and my ability to work collaboratively with others.
+
+Firstly, I have a deep understanding of the Solidity programming language and experience in developing and deploying smart contracts on the Ethereum blockchain. I am familiar with a range of other blockchain technologies, such as Ether.js and Web3.js, which allows me to be flexible in my approach to different projects.
+
+Secondly, I am a proactive problem-solver who is committed to finding innovative solutions to complex technical challenges. I enjoy breaking down problems into manageable pieces and working collaboratively with other developers to come up with the best possible solutions.
+
+Finally, I understand that blockchain development is a team effort and communication is key to success. I am a good listener and communicator, and I value collaboration and respect different perspectives.
+
+Overall, I believe that my technical expertise, problem-solving skills, and ability to work collaboratively make me a strong asset to any blockchain development team. I am excited to bring my strengths to a new role and continue to learn and grow as a blockchain developer.
+
 <details>
   <summary>What is your favorite Web3 project at the moment? Why?</summary>
     <!-- <ul>
