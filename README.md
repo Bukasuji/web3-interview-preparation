@@ -208,6 +208,7 @@ Overall, I believe that my technical expertise, problem-solving skills, and abil
       </li>
     </ul> -->
 </details>
+My greatest weakness is that I sometimes have trouble saying ‘no’ to requests and end up taking on more than I can handle. In the past, this has led me to feel stressed or burnt out. To help myself improve in this area, I use a project management app so I can visualize how much work I have at any given moment and know whether or not I have the bandwidth to take on more.”
 <details>
   <summary>What are your professional goals?</summary>
     Similar question: Where do you see yourself in five years?
