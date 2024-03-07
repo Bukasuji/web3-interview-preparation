@@ -218,6 +218,7 @@ My greatest weakness is that I sometimes have trouble saying ‘no’ to request
       </li>
     </ul> -->
 </details>
+My professional goal is to become one of the best Blockchain developer and contribute immensely towards the development of the Blockchain ecosystem. I envisage using Blockchain to solve real world problems.
 <details>
   <summary>Tell me about an accomplishment you are most proud of</summary>
     <!-- <ul>
@@ -250,6 +251,7 @@ My greatest weakness is that I sometimes have trouble saying ‘no’ to request
       </li>
     </ul> -->
 </details>
+My dream job is to work for a company that will allow me to grow in the Blockchain industry. I am most excited about this role with your company because it will allow me to put into practice everything I learned, while also learn new one.
 <details>
   <summary>What motivates you?</summary>
     Similar question: What gets you up in the morning?
@@ -259,6 +261,7 @@ My greatest weakness is that I sometimes have trouble saying ‘no’ to request
       </li>
     </ul> -->
 </details>
+meeting deadlines, targets or goals.
 <details>
   <summary>What are you most passionate about?</summary>
     <!-- <ul>
@@ -267,6 +270,7 @@ My greatest weakness is that I sometimes have trouble saying ‘no’ to request
       </li>
     </ul> -->
 </details>
+I am passionate about self-improvement. I believe this interest of mine is like a third nature to me by now. Whether it is learning something new or improving a particular skill, working on myself has always given me certain zeal
 <details>
   <summary>What are your career goals?</summary>
     Similar question: Where do you see yourself in five years?
@@ -284,6 +288,7 @@ My greatest weakness is that I sometimes have trouble saying ‘no’ to request
       </li>
     </ul> -->
 </details>
+I like to think of myself as both a good leader and follower. I approach each situation differently, and I respond to what it needs from me. I enjoy leading projects that relate to my strengths, but I'm also happy to follow the lead of others who may be a better fit.
 <details>
   <summary>What was the last book you’ve read for fun?</summary>
     <!-- <ul>
@@ -325,6 +330,7 @@ My greatest weakness is that I sometimes have trouble saying ‘no’ to request
       </li>
     </ul> -->
 </details>
+in as much i can comfortably work alone.I prefer working with a team. because in collaboration you learn a lot, while they also learn from you.
 <details>
   <summary>Who’s your mentor?</summary>
     <!-- <ul>
@@ -341,8 +347,9 @@ My greatest weakness is that I sometimes have trouble saying ‘no’ to request
       </li>
     </ul> -->
 </details>
+I handle pressure by first taking a moment to reanalyse the situation and restratigizng on every possible way to get what ever it is solved.
 <details>
-  <summary>How do you organize multiple deadlines?</summary>
+  <summary>How do you organize multiplew do you organize multiple deadlines?</summary> 
     <!-- <ul>
       <li>
         add answer here
